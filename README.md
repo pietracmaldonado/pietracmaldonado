@@ -2,31 +2,26 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-ff69b4?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/AREA-DESENVOLVIMENTO%20DE%20SISTEMAS-ff1493?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ÁREA-DESENVOLVIMENTO%20DE%20SISTEMAS-ff1493?style=for-the-badge">
 </p>
 
-<!-- Linha rosa customizada -->
-<hr style="border: 1px solid #ff1493; margin: 20px 0;">
+<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
 
-##  🎀 Sobre mim
+## 💖 Sobre mim
 
 Sou estudante de **Desenvolvimento de Sistemas pelo SENAI**, com forte interesse em tecnologia, inovação e resolução de problemas.
 
-Possuo experiência profissional na área administrativa, o que me proporcionou habilidades importantes como organização, responsabilidade, comunicação e trabalho em equipe, competências que aplico diretamente no meu desenvolvimento na área de tecnologia.
+Possuo experiência profissional na área administrativa, adquirindo habilidades como organização, responsabilidade, comunicação e trabalho em equipe — competências que aplico diretamente no desenvolvimento de software.
 
-Sou uma pessoa focada, dedicada e em constante evolução. Tenho grande interesse em aprender novas tecnologias, aprimorar minhas habilidades e enfrentar desafios que contribuam para o meu crescimento profissional.
+Sou focada, dedicada e adoro aprender coisas novas, sempre buscando evoluir e enfrentar desafios que contribuam para meu crescimento profissional.
 
-Atualmente, busco oportunidades para aplicar meus conhecimentos técnicos e desenvolver soluções eficientes, sempre com uma abordagem prática e orientada a resultados.
-
-<!-- Linha rosa customizada -->
-<hr style="border: 1px solid #ff1493; margin: 20px 0;">
+<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
 
 ## 🎀 Objetivo Profissional
 
 Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com soluções tecnológicas eficientes, enquanto continuo evoluindo tecnicamente e adquirindo experiência no mercado de tecnologia.
 
-<!-- Linha rosa customizada -->
-<hr style="border: 1px solid #ff1493; margin: 20px 0;">
+<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
 
 ## 🚀 Habilidades Técnicas
 
@@ -50,8 +45,7 @@ Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com soluções t
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-<!-- Linha rosa customizada -->
-<hr style="border: 1px solid #ff1493; margin: 20px 0;">
+<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
 
 ## 🧠 Competências
 
@@ -62,8 +56,7 @@ Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com soluções t
 - 🎓 Facilidade de aprendizado  
 - 🔍 Pensamento lógico  
 
-<!-- Linha rosa customizada -->
-<hr style="border: 1px solid #ff1493; margin: 20px 0;">
+<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
 
 ## 📚 Em constante aprendizado
 
@@ -72,8 +65,7 @@ Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com soluções t
 - 💅 Boas práticas de programação  
 - 🌟 Lógica e resolução de problemas  
 
-<!-- Linha rosa customizada -->
-<hr style="border: 1px solid #ff1493; margin: 20px 0;">
+<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
 
 ## 📊 Estatísticas
 
@@ -83,17 +75,14 @@ Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com soluções t
   />
 </p>
 
-<!-- Linha rosa customizada -->
-<hr style="border: 1px solid #ff1493; margin: 20px 0;">
+<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
 
 ## 📫 Contato
 
 <p>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto: pietracmaldonado@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
----
 
 <p align="center" style="color:#ff69b4; font-weight:bold;">💖 "Sempre aprendendo, evoluindo e construindo meu caminho na tecnologia."</p>
