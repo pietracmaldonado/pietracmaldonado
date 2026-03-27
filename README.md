@@ -5,25 +5,28 @@
   <img src="https://img.shields.io/badge/AREA-DESENVOLVIMENTO%20DE%20SISTEMAS-ff1493?style=for-the-badge">
 </p>
 
----
+<!-- Linha rosa customizada -->
+<hr style="border: 1px solid #ff1493; margin: 20px 0;">
 
-## 👩‍💻 Sobre mim
+##  🎀 Sobre mim
 
 Sou estudante de **Desenvolvimento de Sistemas pelo SENAI**, com forte interesse em tecnologia, inovação e resolução de problemas.
 
-Possuo experiência profissional na área administrativa, o que me proporcionou habilidades importantes como organização, responsabilidade, comunicação e trabalho em equipe — competências que aplico diretamente no meu desenvolvimento na área de tecnologia.
+Possuo experiência profissional na área administrativa, o que me proporcionou habilidades importantes como organização, responsabilidade, comunicação e trabalho em equipe, competências que aplico diretamente no meu desenvolvimento na área de tecnologia.
 
 Sou uma pessoa focada, dedicada e em constante evolução. Tenho grande interesse em aprender novas tecnologias, aprimorar minhas habilidades e enfrentar desafios que contribuam para o meu crescimento profissional.
 
 Atualmente, busco oportunidades para aplicar meus conhecimentos técnicos e desenvolver soluções eficientes, sempre com uma abordagem prática e orientada a resultados.
 
----
+<!-- Linha rosa customizada -->
+<hr style="border: 1px solid #ff1493; margin: 20px 0;">
 
-## 🎯 Objetivo Profissional
+## 🎀 Objetivo Profissional
 
 Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com soluções tecnológicas eficientes, enquanto continuo evoluindo tecnicamente e adquirindo experiência no mercado de tecnologia.
 
----
+<!-- Linha rosa customizada -->
+<hr style="border: 1px solid #ff1493; margin: 20px 0;">
 
 ## 🚀 Habilidades Técnicas
 
@@ -47,27 +50,30 @@ Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com soluções t
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
+<!-- Linha rosa customizada -->
+<hr style="border: 1px solid #ff1493; margin: 20px 0;">
 
 ## 🧠 Competências
 
-- Organização e gestão de tarefas  
-- Comunicação clara e objetiva  
-- Trabalho em equipe  
-- Proatividade  
-- Facilidade de aprendizado  
-- Pensamento lógico  
+- 🎀 Organização e gestão de tarefas  
+- 💖 Comunicação clara e objetiva  
+- 🌸 Trabalho em equipe  
+- ✨ Proatividade  
+- 🎓 Facilidade de aprendizado  
+- 🔍 Pensamento lógico  
 
----
+<!-- Linha rosa customizada -->
+<hr style="border: 1px solid #ff1493; margin: 20px 0;">
 
 ## 📚 Em constante aprendizado
 
-- Desenvolvimento web  
-- Novas linguagens e tecnologias  
-- Boas práticas de programação  
-- Lógica e resolução de problemas  
+- 🌷 Desenvolvimento web  
+- 💗 Novas linguagens e tecnologias  
+- 💅 Boas práticas de programação  
+- 🌟 Lógica e resolução de problemas  
 
----
+<!-- Linha rosa customizada -->
+<hr style="border: 1px solid #ff1493; margin: 20px 0;">
 
 ## 📊 Estatísticas
 
@@ -77,7 +83,8 @@ Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com soluções t
   />
 </p>
 
----
+<!-- Linha rosa customizada -->
+<hr style="border: 1px solid #ff1493; margin: 20px 0;">
 
 ## 📫 Contato
 
@@ -89,4 +96,4 @@ Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com soluções t
 
 ---
 
-<p align="center">💖 "Sempre aprendendo, evoluindo e construindo meu caminho na tecnologia."</p>
+<p align="center" style="color:#ff69b4; font-weight:bold;">💖 "Sempre aprendendo, evoluindo e construindo meu caminho na tecnologia."</p>
