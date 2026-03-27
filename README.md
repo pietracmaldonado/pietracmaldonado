@@ -2,26 +2,27 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-ff69b4?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/ÁREA-DESENVOLVIMENTO%20DE%20SISTEMAS-ff1493?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ÁREA-DESENVOLVIMENTO%20DE%20SISTEMAS-ff77b7?style=for-the-badge">
 </p>
 
-<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
+<!-- Linha brilhante rosa -->
+<div style="height:3px; background: linear-gradient(to right, #ff9ce5, #ff69b4, #ff1493); border-radius:3px; margin:25px 0;"></div>
 
 ## 💖 Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas pelo SENAI**, com forte interesse em tecnologia, inovação e resolução de problemas.
+Sou estudante de **Desenvolvimento de Sistemas pelo SENAI**, apaixonada por tecnologia e inovação.  
 
-Possuo experiência profissional na área administrativa, adquirindo habilidades como organização, responsabilidade, comunicação e trabalho em equipe — competências que aplico diretamente no desenvolvimento de software.
+Tenho experiência em administração, que me deu **organização, foco e disciplina**, habilidades que aplico no aprendizado de programação e no desenvolvimento de soluções eficientes.  
 
-Sou focada, dedicada e adoro aprender coisas novas, sempre buscando evoluir e enfrentar desafios que contribuam para meu crescimento profissional.
+Sou dedicada, curiosa e adoro aprender coisas novas todos os dias! 🌷
 
-<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
+<div style="height:3px; background: linear-gradient(to right, #ff9ce5, #ff69b4, #ff1493); border-radius:3px; margin:25px 0;"></div>
 
 ## 🎀 Objetivo Profissional
 
-Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com soluções tecnológicas eficientes, enquanto continuo evoluindo tecnicamente e adquirindo experiência no mercado de tecnologia.
+Atuar como **desenvolvedora de sistemas**, criando soluções práticas e eficientes, enquanto continuo crescendo profissionalmente e aprendendo novas tecnologias. 💗
 
-<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
+<div style="height:3px; background: linear-gradient(to right, #ff9ce5, #ff69b4, #ff1493); border-radius:3px; margin:25px 0;"></div>
 
 ## 🚀 Habilidades Técnicas
 
@@ -45,44 +46,44 @@ Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com soluções t
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
+<div style="height:3px; background: linear-gradient(to right, #ff9ce5, #ff69b4, #ff1493); border-radius:3px; margin:25px 0;"></div>
 
 ## 🧠 Competências
 
-- 🎀 Organização e gestão de tarefas  
-- 💖 Comunicação clara e objetiva  
-- 🌸 Trabalho em equipe  
-- ✨ Proatividade  
+- 🌸 Organização e gestão de tarefas  
+- 💖 Comunicação clara e elegante  
+- 🎀 Trabalho em equipe  
+- ✨ Proatividade e dedicação  
 - 🎓 Facilidade de aprendizado  
 - 🔍 Pensamento lógico  
 
-<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
+<div style="height:3px; background: linear-gradient(to right, #ff9ce5, #ff69b4, #ff1493); border-radius:3px; margin:25px 0;"></div>
 
-## 📚 Em constante aprendizado
+## 📚 Aprendizado Atual
 
-- 🌷 Desenvolvimento web  
-- 💗 Novas linguagens e tecnologias  
-- 💅 Boas práticas de programação  
-- 🌟 Lógica e resolução de problemas  
+- 🌷 Desenvolvimento Web  
+- 💗 Boas práticas de programação  
+- 💅 Lógica e resolução de problemas  
+- 🌟 Novas linguagens e tecnologias  
 
-<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
+<div style="height:3px; background: linear-gradient(to right, #ff9ce5, #ff69b4, #ff1493); border-radius:3px; margin:25px 0;"></div>
 
 ## 📊 Estatísticas
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&bg_color=0d1117" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&title_color=ff69b4&icon_color=ff77b7&text_color=ffffff&bg_color=0d1117" 
   />
 </p>
 
-<div style="height:3px; background:#ff1493; margin:20px 0;"></div>
+<div style="height:3px; background: linear-gradient(to right, #ff9ce5, #ff69b4, #ff1493); border-radius:3px; margin:25px 0;"></div>
 
 ## 📫 Contato
 
 <p>
-  <a href="mailto: pietracmaldonado@gmail.com">
+  <a href="mailto:pietracmaldonado@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-<p align="center" style="color:#ff69b4; font-weight:bold;">💖 "Sempre aprendendo, evoluindo e construindo meu caminho na tecnologia."</p>
+<p align="center" style="color:#ff69b4; font-weight:bold;">💖 "Minimalista, rosinha e sempre aprendendo!"</p>
