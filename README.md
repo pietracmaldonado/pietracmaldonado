@@ -68,16 +68,6 @@ Atuar como **desenvolvedora de sistemas**, contribuindo com soluções práticas
 
 <div style="height:4px; background: linear-gradient(to right, #ff9ce5, #ff69b4, #ff1493); border-radius:3px; margin:25px 0;"></div>
 
-## Estatísticas
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&title_color=ff69b4&icon_color=ff77b7&text_color=ffffff&bg_color=0d1117" 
-  />
-</p>
-
-<div style="height:4px; background: linear-gradient(to right, #ff9ce5, #ff69b4, #ff1493); border-radius:3px; margin:25px 0;"></div>
-
 ## Contato
 
 <p align="center">
