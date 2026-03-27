@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#ff69b4;">🌸 Seu Nome</span>
+  <span style="color:#ff69b4;">🌸 Pietra Maldonado</span>
 </h1>
 
 <p align="center">
@@ -81,7 +81,7 @@ Atuar como **desenvolvedora de sistemas**, contribuindo com soluções práticas
 ## Contato
 
 <p align="center">
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:pietracmaldonado@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
